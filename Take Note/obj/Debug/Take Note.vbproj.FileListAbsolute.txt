@@ -1,0 +1,26 @@
+H:\Visual Studio\Visual Basic Projects\Take Note\Take Note\bin\Debug\Take Note.exe
+H:\Visual Studio\Visual Basic Projects\Take Note\Take Note\bin\Debug\Take Note.pdb
+H:\Visual Studio\Visual Basic Projects\Take Note\Take Note\bin\Debug\Take Note.xml
+H:\Visual Studio\Visual Basic Projects\Take Note\Take Note\obj\Debug\ResolveAssemblyReference.cache
+H:\Visual Studio\Visual Basic Projects\Take Note\Take Note\obj\Debug\Take_Note.Form1.resources
+H:\Visual Studio\Visual Basic Projects\Take Note\Take Note\obj\Debug\Take_Note.Resources.resources
+H:\Visual Studio\Visual Basic Projects\Take Note\Take Note\obj\Debug\Take Note.vbproj.GenerateResource.Cache
+H:\Visual Studio\Visual Basic Projects\Take Note\Take Note\obj\Debug\Take Note.exe
+H:\Visual Studio\Visual Basic Projects\Take Note\Take Note\obj\Debug\Take Note.xml
+H:\Visual Studio\Visual Basic Projects\Take Note\Take Note\obj\Debug\Take Note.pdb
+H:\Visual Studio\Visual Basic Projects\Take Note\Take Note\obj\Debug\Take_Note.Form2.resources
+H:\Visual Studio\Visual Basic Projects\Take Note\Take Note\obj\Debug\Take_Note.Form3.resources
+D:\Projects\Visual Basic Projects\Take Note\Take Note\obj\Debug\Take Note.exe
+D:\Projects\Visual Basic Projects\Take Note\Take Note\obj\Debug\Take Note.xml
+D:\Projects\Visual Basic Projects\Take Note\Take Note\obj\Debug\Take Note.pdb
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Take Note.exe
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Take Note.xml
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Take Note.pdb
+E:\Projects\GitHub\Take Note\Take Note\bin\Debug\Take Note.exe
+E:\Projects\GitHub\Take Note\Take Note\bin\Debug\Take Note.pdb
+E:\Projects\GitHub\Take Note\Take Note\bin\Debug\Take Note.xml
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Take_Note.Form1.resources
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Take_Note.Form2.resources
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Take_Note.Form3.resources
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Take_Note.Resources.resources
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Take Note.vbproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+E:\Projects\GitHub\Take Note\Take Note\bin\Debug\Simple Reminder.exe.config
+E:\Projects\GitHub\Take Note\Take Note\bin\Debug\Simple Reminder.exe
+E:\Projects\GitHub\Take Note\Take Note\bin\Debug\Simple Reminder.pdb
+E:\Projects\GitHub\Take Note\Take Note\bin\Debug\Simple Reminder.xml
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Simple_Reminder.Form1.resources
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Simple_Reminder.Form2.resources
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Simple_Reminder.Form3.resources
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Simple_Reminder.Resources.resources
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Simple Reminder.vbproj.GenerateResource.Cache
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Simple Reminder.exe
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Simple Reminder.xml
+E:\Projects\GitHub\Take Note\Take Note\obj\Debug\Simple Reminder.pdb
+E:\Projects\GitHub\Simple-Reminder\Take Note\bin\Debug\Simple Reminder.exe.config
+E:\Projects\GitHub\Simple-Reminder\Take Note\obj\Debug\Simple Reminder.exe
+E:\Projects\GitHub\Simple-Reminder\Take Note\obj\Debug\Simple Reminder.xml
+E:\Projects\GitHub\Simple-Reminder\Take Note\obj\Debug\Simple Reminder.pdb
